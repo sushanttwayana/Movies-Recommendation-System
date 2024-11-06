@@ -10,6 +10,8 @@ Bag of Words (BoW): Extracts features by tokenizing movie descriptions, cast, ge
 Similarity-based Search: Uses cosine similarity on BoW vectors to compute the closeness between movies, generating personalized recommendations.
 Stemming & Stop Words Removal: Refines feature extraction by reducing words to their root forms and removing common stop words to improve relevance.
 
+Dataset : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 📁 Key Features
 
 Data Preprocessing: Parses and cleans movie data, including genres, keywords, cast, and crew information.
