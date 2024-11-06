@@ -16,11 +16,10 @@ Data Preprocessing: Parses and cleans movie data, including genres, keywords, ca
 Text Vectorization: Transforms text data into vectors using the BoW model for similarity calculations.
 Recommendation Engine: Returns a ranked list of similar movies based on cosine similarity, providing top movie recommendations.
 
-
 # Output
 ![image](https://github.com/user-attachments/assets/2124bdac-e72f-456f-a9f2-46cfca92b9f6)
 
-!
-📄 Project Demo
-Check out the demo on Streamlit to see the Movie Recommendation System in action!
 
+📄 Project Demo
+
+https://www.linkedin.com/posts/sushant-twayana-b4840a254_machinelearning-datascience-nlp-activity-7259833272942088192-F3DW?utm_source=share&utm_medium=member_desktop
